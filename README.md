@@ -10,6 +10,10 @@
 
 ### 北京健康宝: 福岛核酸废水特别版
 
+示例图：
+
+![Image Description](images/202308-nuclear-wastewater-event-demo.jpg)
+
 这是一个旨在帮助北京市民了解自己的健康状况和环境状况的项目。
 
 我们提供免费的、强制的、一天一次的核酸辐射检测服务，帮助市民了解自己所处的环境是否存在核酸辐射污染。
@@ -31,10 +35,6 @@
     在首页查看辐射检测的历史记录和达标天数。
     
     返回首页以查看其他健康相关信息。
-
-示例图：
-
-![Image Description](images/202308-nuclear-wastewater-event-demo.jpg)
 
 ***
 
